@@ -10,4 +10,4 @@ The level 3, which is the highest level, is the user interface. This level will 
 ## Level 2
 The level 2 is server communication and data transferring level. At this level, the server will send the users’ requests to corresponding processing modules, such as the chatbot engine and the fundamental models. It will also organize the answers in a user friendly manner.
 ## Level 1
-The level 1 is the engine and model level. This level is the brain of the entire system.
+The level 1 is the engine and model level. This level is the brain of the entire system. Level 1 contains the process of natural langueage processing and the construction of the knowledge graph.
